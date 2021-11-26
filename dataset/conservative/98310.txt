@@ -1,0 +1,1 @@
+the algorithm tweetcast uses was trained on twitter users who have publicly declared support for clinton or trump

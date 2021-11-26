@@ -1,0 +1,1 @@
+that quickly alert users if trump tweets about any companies in which they own stock

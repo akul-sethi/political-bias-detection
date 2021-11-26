@@ -1,0 +1,1 @@
+model pictures trump as moneybag
