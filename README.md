@@ -1,3 +1,4 @@
 # RMGIII
 Politcal Bias detection using LSTM
-By Yungsung and AKul
+By Yungsung and Akul
+-This was written on 11/27/2021
