@@ -1,0 +1,1 @@
+Batch size = 1024Seed = 39Sequence length = 25Vocab size = 10000Embedding dimensions = 128
