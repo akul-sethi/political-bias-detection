@@ -1,1 +1,0 @@
-i use the probability of each state going for clinton or trump then i mix that with a correlation matrix that defines the relationships between the states

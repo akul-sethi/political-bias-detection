@@ -1,1 +1,0 @@
-graph tracks weekly stock price of trump hotels and casino resorts since 1998

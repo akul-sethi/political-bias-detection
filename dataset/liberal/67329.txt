@@ -1,1 +1,0 @@
-the app makes exceptions for the google chrome app store and the trump filter website to make the extension searchable and shareable
