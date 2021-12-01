@@ -1,3 +1,7 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/usr/local/bin/python",
+    "workbench.colorTheme": "Default Dark+", 
+    "github.gitAuthentication": true
+
 }
